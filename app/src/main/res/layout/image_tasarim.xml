@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+ android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <RelativeLayout
+        android:layout_width="150dp"
+        android:layout_height="200dp"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/remove_button1"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignEnd="@+id/image_tasarim_id"
+            android:layout_margin="5dp"
+            android:background="@drawable/ic_close_red"
+            android:gravity="bottom" />
+        <ImageView
+            android:id="@+id/image_tasarim_id"
+            android:layout_width="150dp"
+            android:layout_height="200dp"
+            android:scaleType="centerCrop"
+            android:layout_margin="5dp"
+            android:adjustViewBounds="true"
+
+            />
+    </RelativeLayout>
+
+
+
+
+</RelativeLayout>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "453760065864",
+    "firebase_url": "https://uninotpaylasimi.firebaseio.com",
+    "project_id": "uninotpaylasimi",
+    "storage_bucket": "uninotpaylasimi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453760065864:android:7feecb35f2914ce7",
+        "android_client_info": {
+          "package_name": "com.yazilimmuhendisim.uninotpaylasimi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453760065864-v8pfm1o4a2623rdva90lf13r00klgpno.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yazilimmuhendisim.uninotpaylasimi",
+            "certificate_hash": "e4c45226e932f1ee4034c064f0ecf2df384d03d5"
+          }
+        },
+        {
+          "client_id": "453760065864-bg4qkrv6ekhro4qvptd276j9j9613f06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQsd9ou9kPT4v2VSk0lQNuC846F955u24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453760065864-bg4qkrv6ekhro4qvptd276j9j9613f06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
